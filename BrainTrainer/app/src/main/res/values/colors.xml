@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="buttonColor1">#49fd39</color>
+    <color name="timerTextView">#ffeb0d</color>
+    <color name="scoreTextView">#ff860d</color>
+    <color name="textColor">#000000</color>
+    <color name="boxOne">#e6fd39</color>
+    <color name="boxTwo">#5dfd39</color>
+    <color name="boxThree">#4304e2</color>
+    <color name="boxFour">#fd3963</color>
+</resources>
